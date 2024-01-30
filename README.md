@@ -4,17 +4,17 @@ I'm a passionate web developer with a keen interest in creating efficient and us
 
 ## 🔧 Technologies & Tools
 
-- Frontend: HTML, CSS, Tailwind, JavaScript, React.js
+- Frontend: HTML, CSS, Tailwind, JavaScript, React.js, Next.js
 - Backend: Django (Python)
 - Database: PostgreSQL, MySQL, Firebase
 - Design: Figma, Adobe XD
 - Version Control: Git
 - Deployment: Heroku, Netlify, Vercel
-- Other: RESTful APIs, Responsive Design
+- Other: RESTful APIs, Responsive Design, Redux Toolkit, React-Query, Material UI, Ant Design
 
 ## 🌱 Currently Learning
 
-I'm always seeking to enhance my skills and stay up-to-date with the latest technologies. Currently, I'm focusing on improving my skills in React Native and Node.js.
+I'm always seeking to enhance my skills and stay up-to-date with the latest technologies. Currently, I'm focusing on learning React Native and Node.js.
 
 <!---## 🚀 Projects
 
